@@ -166,11 +166,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
- ![exp-01 1](https://github.com/karnashankar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121109150/b1b4ea61-c801-4b41-ab39-985c7cb311e1)
+![iot-exp-1-1](https://github.com/karnashankar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121109150/2b10948d-edbd-40b8-9b27-3fcc06ecf8f4)
 
- ![exp-01 2](https://github.com/karnashankar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121109150/183c59e3-87e0-42e2-8bf0-1a878b813bf9)
+ ![iot-exp-1-2](https://github.com/karnashankar/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121109150/96182458-4045-4d98-880a-5f898634c824)
 
- 
- 
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
